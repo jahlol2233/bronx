@@ -16,9 +16,9 @@ StarterGui:SetCore("SendNotification", {
 
 task.wait(8)
 StarterGui:SetCore("SendNotification", {
-    Title = "❗",
-    Text = "leaked by .gg/sleepyhub if you dont listen to king vyylora you gotta face the consequences",
-    Duration = 8, -- seconds the notification stays on screen
+    Title = "👀",
+    Text = "enjoy this free script, YOU AT YOUR OWN RISK!!!!",
+    Duration = 3, -- seconds the notification stays on screen
     Button1 = "Got it"
 })
 
